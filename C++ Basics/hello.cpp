@@ -1,10 +1,12 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 
-cout<<'Hello c++ with DSA is back by ApnaCollege'<<endl;
-
+  int a = 5;
+  int b = 8;
+  cout << a + b << endl;
+  cout << "hello there how are you doing well or fine just say to me....." << endl;
   return 0;
 }
-
